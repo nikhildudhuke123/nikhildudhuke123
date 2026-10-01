@@ -95,6 +95,6 @@ Repository: https://github.com/nikhildudhuke123/devsecops-lab
 
 ## Contact
 
-LinkedIn: [Add your LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/nikhil-dudhuke-1218911b5
 
-Email: [Add your professional email]
+Email: nikhildudhuke@gmail.com

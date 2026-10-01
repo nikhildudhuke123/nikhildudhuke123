@@ -168,6 +168,6 @@ Areas of interest:
 
 ## 📫 Connect
 
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: https://www.linkedin.com/in/nikhil-dudhuke-1218911b5
 - GitHub: https://github.com/nikhildudhuke123
-- Email: [Add your professional email here]
+- Email: nikhildudhuke@gmail.com
