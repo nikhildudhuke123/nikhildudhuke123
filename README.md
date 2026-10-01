@@ -10,6 +10,11 @@ My approach is simple: **find the risk → understand the root cause → build t
 
 ---
 
+## 🔗 Quick Links
+
+📄 [Resume](./RESUME.md)  •  🚀 [DevSecOps Security Engineering Lab](https://github.com/nikhildudhuke123/devsecops-lab)  •  💼 [LinkedIn](#)
+---
+
 ## 👨‍💻 Profile Snapshot
 
 | | |
