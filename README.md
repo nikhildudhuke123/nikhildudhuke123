@@ -171,3 +171,20 @@ Areas of interest:
 - LinkedIn: https://www.linkedin.com/in/nikhil-dudhuke-1218911b5
 - GitHub: https://github.com/nikhildudhuke123
 - Email: nikhildudhuke@gmail.com
+
+---
+
+## Threat Modeling & Application Security Lab
+
+**Repository:** [threat-modeling-lab](https://github.com/nikhildudhuke123/threat-modeling-lab)
+
+Built a SecureBank demo API to practice threat modeling and application security engineering.
+
+- Conducted STRIDE threat analysis and documented security requirements, mitigations, and residual risks.
+- Implemented JWT validation, object-level authorization, role-based access control, and structured audit logging.
+- Added API rate limiting and regression tests for authentication, authorization, audit integrity, and HTTP 429 responses.
+- Integrated Pytest, Semgrep, Trivy, and Gitleaks into GitHub Actions.
+
+**Validation evidence:** 35 local tests passed; all four configured CI jobs passed for commit `0bf880a`.
+
+**Report:** [SecureBank Security Assessment Report](https://github.com/nikhildudhuke123/threat-modeling-lab/blob/master/reports/SecureBank_Threat_Modeling_Security_Assessment_Report.pdf)
