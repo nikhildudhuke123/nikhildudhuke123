@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil Dudhuke 👋
 
-### Application Security | Product Security | DevSecOps
+### Application Security | Product Security | DevSecOps | Threat Modeling | Security Automation
 
 Security Engineer focused on securing applications, APIs, cloud infrastructure, containers, Kubernetes workloads, and software delivery pipelines.
 
